@@ -1,7 +1,7 @@
-### Hi there 👋
+### xn3cr0nx
 
-<!--
-**xn3cr0nx/xn3cr0nx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![twitter badge](https://img.shields.io/badge/twitter-@xn3cr0nx-blue?style=flat-square&link=https://twitter.com/xn3cr0nx&logo=twitter)
+![website badge](https://img.shields.io/badge/website-bucknall.codes-green?style=flat-square&link=https://patrickjusic.com)
 
 Here are some ideas to get you started:
 
