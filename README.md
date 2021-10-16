@@ -3,5 +3,3 @@
 ![website badge](https://img.shields.io/badge/patrickjusic.com-green?style=flat-square&link=https://patrickjusic.com)
 
 Software Engineer in Backend Core Team @ *Toggl Track*
-
-MSc Student Cybersecurity Track @ *Politecnico di Milano*
