@@ -1,7 +1,7 @@
-![twitter badge](https://img.shields.io/badge/@xn3cr0nx-blue?style=flat-square&link=https://twitter.com/xn3cr0nx&logo=twitter)
-![linkedin badge](https://img.shields.io/badge/Patrick-blue?style=flat-square&link=https://www.linkedin.com/in/patrickjusic/&logo=linkedin)
-![protonmail](https://img.shields.io/badge/-ProtonMail-blueviolet?style=flat&logo=protonmail&logoColor=white&link=mailto://patrick.jusic@protonmail.com)
-![website badge](https://img.shields.io/badge/patrickjusic.com-green?style=flat-square&link=https://patrickjusic.com)
+[![Twitter](https://img.shields.io/badge/@xn3cr0nx-blue?style=flat-square&logo=twitter)](https://twitter.com/xn3cr0nx)
+[![LinkedIn](https://img.shields.io/badge/Patrick-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/patrickjusic/)
+[![Protonmail](https://img.shields.io/badge/-ProtonMail-blueviolet?style=flat&logo=protonmail&logoColor=white)](mailto://patrick.jusic@protonmail.com)
+[![Website](https://img.shields.io/badge/patrickjusic.com-green?style=flat-square)](https://patrickjusic.com)
 
 Software Engineer in Backend Core Team @ *Toggl Track*
 
