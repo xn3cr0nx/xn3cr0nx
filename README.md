@@ -5,4 +5,4 @@
 
 Backend Core Team Lead @ *Toggl Track*
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xn3cr0nx&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xn3cr0nx&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
