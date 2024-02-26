@@ -3,6 +3,6 @@
 [![Protonmail](https://img.shields.io/badge/-ProtonMail-blueviolet?style=flat&logo=protonmail&logoColor=white)](mailto://patrick.jusic@protonmail.com)
 [![Website](https://img.shields.io/badge/patrickjusic.com-green?style=flat-square)](https://patrickjusic.com)
 
-Backend Core Team Lead @ *Toggl Track*
+Head of Engineering @ *Toggl*
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xn3cr0nx&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
